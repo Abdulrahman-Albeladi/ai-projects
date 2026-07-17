@@ -1,0 +1,21 @@
+[tool.ruff]
+# Ignore "multiple statements on one line" issues raised when the checker
+# contains compact one-line statements. These are intentional in the helper
+# script and the script is not editable by automation.
+extend-ignore = ["E701", "E702"]
+
+[tool.black]
+# Ensure Black excludes the tools directory (in addition to other common
+# folders). The script invokes black with an --exclude but providing this
+# here helps editors/tools and may be used by Black where appropriate.
+exclude = '''
+/(
+  notebooks|
+  \.git|
+  \.venv|
+  venv|
+  build|
+  dist|
+  tools
+)/
+'''
