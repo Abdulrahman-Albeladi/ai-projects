@@ -3,9 +3,8 @@
 This module requires the course-provided ``logic`` and ``planning`` modules.
 """
 
-# The course scaffolding provides `planning` and `logic` modules. Import only
-# the symbols we use to avoid star-import-related linter errors.
-from planning import PlanningProblem, Action, GraphPlan, linearize
+from logic import *
+from planning import *
 
 
 def blocks_world_mod_plan():
