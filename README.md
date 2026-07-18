@@ -1,5 +1,12 @@
 # AI Projects
 
+<!-- employer-visual:start -->
+<p align="center">
+  <img src="docs/portfolio-overview.png" alt="AI Projects project overview" width="100%">
+</p>
+<!-- employer-visual:end -->
+
+
 Artificial-intelligence coursework in symbolic reasoning, planning, search, and knowledge representation.
 
 **Technologies:** Python · Prolog · Automated Planning
