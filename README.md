@@ -1,12 +1,4 @@
-# Artificial Intelligence Projects
-
-<!-- coursework-portfolio-notice:start -->
-> [!NOTE]
-> **Archived college-work portfolio snapshot.** This repository documents coursework, reconstructed assignments, experiments, and skills developed during university. It is provided for portfolio and educational reference, not as maintained production software. Some projects may require historical dependencies, datasets, SDKs, or manual setup and may not build unchanged on current toolchains.
->
-> **Known limitation:** Some assignments may require historical datasets, packages, or course-specific execution instructions.
-<!-- coursework-portfolio-notice:end -->
-
+# AI Projects
 Selected coursework implementations in the languages currently present in this
 repository.
 
