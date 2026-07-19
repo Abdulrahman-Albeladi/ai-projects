@@ -1,10 +1,5 @@
 # AI Projects: Classical Planning and Prolog Knowledge Systems
 
-<!-- employer-visual:start -->
-<p align="center">
-  <img src="docs/portfolio-overview.png" alt="AI Projects project overview" width="100%">
-</p>
-<!-- employer-visual:end -->
 
 Symbolic reasoning and planning exercises in Prolog and Python, focused on logic, search, and classical AI foundations.
 
